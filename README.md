@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi, I'm Vipul Raj 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=500&color=1D0A73&width=435&lines=Data+Scientist+%7C+Ethical+Hacker;AI+Enthusiast+%7C+Problem+Solver" alt="Typing SVG">
@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate on **AI and Cybersecurity projects**
 - 🤝 I’m looking for help with **Ethical Hacking techniques**
 - 💬 Ask me about **Data Science, Machine Learning, Cybersecurity**
-- 📫 How to reach me: **[Your Email](mailto:your.email@example.com)**
+- 📫 How to reach me: **vipulraj0152@gmail.com(mailto:vipulraj0152@gmail.com)**
 
 ---
 
@@ -60,5 +60,5 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-github-username&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=vipulraj0152&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views">
 </p>
