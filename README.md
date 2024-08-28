@@ -13,7 +13,7 @@
 - 👯 I’m looking to collaborate on **AI and Cybersecurity projects**
 - 🤝 I’m looking for help with **Ethical Hacking techniques**
 - 💬 Ask me about **Data Science, Machine Learning, Cybersecurity**
-- 📫 How to reach me: **vipulraj0152@gmail.com(mailto:vipulraj0152@gmail.com)**
+- 📫 How to reach me: **vipulraj0152@gmail.com**
 
 ---
 
